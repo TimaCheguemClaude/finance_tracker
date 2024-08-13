@@ -1,2 +1,16 @@
 # finance_tracker
-Finance Tracker is a Flutter-based application designed to help you effortlessly manage and track your finances. Whether it's tracking your daily expenses, monitoring your savings, or setting financial goals, Finance Tracker provides an intuitive and user-friendly platform to keep your finances organized. 
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
