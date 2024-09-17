@@ -173,7 +173,7 @@ class _SettingsPageState extends State<SettingsPage> {
               );
             },
           ),
-          SettingCard(
+        /*  SettingCard(
             icon: const Icon(Iconsax.code),
             text: 'functions'.tr,
             onPressed: () {
@@ -461,7 +461,7 @@ class _SettingsPageState extends State<SettingsPage> {
                 },
               );
             },
-          ),
+          ),*/
           SettingCard(
             icon: const Icon(Iconsax.d_square),
             text: 'data'.tr,
@@ -581,7 +581,7 @@ class _SettingsPageState extends State<SettingsPage> {
               );
             },
           ),
-          SettingCard(
+        /*  SettingCard(
             icon: const Icon(Iconsax.setting_3),
             text: 'widget'.tr,
             onPressed: () {
@@ -797,7 +797,7 @@ class _SettingsPageState extends State<SettingsPage> {
                 },
               );
             },
-          ),
+          ),*/
           SettingCard(
             icon: const Icon(Iconsax.language_square),
             text: 'language'.tr,
@@ -865,7 +865,7 @@ class _SettingsPageState extends State<SettingsPage> {
               );
             },
           ),
-          SettingCard(
+         /* SettingCard(
             icon: const Icon(Iconsax.dollar_square),
             text: 'support'.tr,
             onPressed: () {
@@ -980,7 +980,7 @@ class _SettingsPageState extends State<SettingsPage> {
                 },
               );
             },
-          ),
+          ),*/
          /* SettingCard(
             icon: const Icon(Iconsax.document),
             text: 'license'.tr,
@@ -1018,7 +1018,7 @@ class _SettingsPageState extends State<SettingsPage> {
             ),
             text: '${'project'.tr} GitHub',
             onPressed: () =>
-                urlLauncher('https://github.com/darkmoonight/Rain'),
+                urlLauncher('https://github.com/TimaCheguemClaude/finance_tracker.git'),
           ),
         /*  Padding(
             padding: const EdgeInsets.all(10),
